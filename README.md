@@ -43,7 +43,7 @@ Do YouTube thường xuyên chặn bot và giới hạn độ tuổi, bạn CẦ
 - Bước 2: Cài đặt tiện ích mở rộng có tên **"Get cookies.txt LOCALLY"** vào trình duyệt.
 - Bước 3: Đang ở trang chủ YouTube, bấm vào biểu tượng tiện ích đó và chọn **Export**.
 - Bước 4: Đổi tên file vừa tải về thành `cookies.txt` và đặt thẳng vào thư mục gốc của dự án này (`youtube_dubbing_app`).
-*(Lưu ý: File này đã được thêm vào `.gitignore` nên sẽ không bao giờ bị lộ khi bạn tải code lên mạng).*
+
 
 ## 🚀 Hướng dẫn sử dụng
 
