@@ -1,0 +1,10 @@
+yt-dlp
+openai-whisper
+deep-translator
+gTTS
+pydub
+moviepy==1.0.3
+edge-tts
+gradio
+demucs
+torch
